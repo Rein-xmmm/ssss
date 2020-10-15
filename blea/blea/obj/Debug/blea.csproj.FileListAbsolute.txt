@@ -1,0 +1,10 @@
+C:\Users\Алишер\Desktop\ssss\blea\blea\bin\Debug\blea.exe.config
+C:\Users\Алишер\Desktop\ssss\blea\blea\bin\Debug\blea.exe
+C:\Users\Алишер\Desktop\ssss\blea\blea\bin\Debug\blea.pdb
+C:\Users\Алишер\Desktop\ssss\blea\blea\bin\Debug\ClassLibrary1.dll
+C:\Users\Алишер\Desktop\ssss\blea\blea\bin\Debug\ClassLibrary1.pdb
+C:\Users\Алишер\Desktop\ssss\blea\blea\obj\Debug\blea.csprojAssemblyReference.cache
+C:\Users\Алишер\Desktop\ssss\blea\blea\obj\Debug\blea.csproj.CoreCompileInputs.cache
+C:\Users\Алишер\Desktop\ssss\blea\blea\obj\Debug\blea.csproj.CopyComplete
+C:\Users\Алишер\Desktop\ssss\blea\blea\obj\Debug\blea.exe
+C:\Users\Алишер\Desktop\ssss\blea\blea\obj\Debug\blea.pdb
